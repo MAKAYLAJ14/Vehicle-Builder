@@ -7,4 +7,5 @@ Module 8 challenge is to make a command-line application that creates a vehicle 
 Xpert Learning Assistant  
 
 ## Test
-Video link:
+Video link: https://youtu.be/jf8LzP-bobM
+
